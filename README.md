@@ -1,6 +1,7 @@
 ![App Demo](https://github.com/MChaudhry9/inventory-management-app/raw/main/public/appDemo.png)
 
-# An Inventory Management App with Next.js, React, and Firebase
+# An Inventory Management App 
+
 ## Tech Stack
 - Next.js + React: React is a JavaScript library for building user interfaces, and Next.js is a framework built on top of React that provides additional features like server-side rendering and static site generation.
 - Material UI for frontend design
